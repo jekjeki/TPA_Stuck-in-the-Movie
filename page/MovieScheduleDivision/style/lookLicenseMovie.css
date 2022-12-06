@@ -1,0 +1,39 @@
+
+.schedule-movie-header{
+    display: flex;
+    margin-top: 10px;
+}
+
+
+.wrap-schedule-title{
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.wrap-schedule-movie-back {
+    padding: 5px;
+    color: white;
+}
+
+
+.schedule-movie-card-comp{
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    margin: 10px;
+    
+}
+
+.schedule-movie-card-comp > p{
+    margin-top: 10px;
+    
+}
+
+.container-movie-schedule-card{
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    display: flex;
+}

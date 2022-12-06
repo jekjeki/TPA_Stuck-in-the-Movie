@@ -1,0 +1,65 @@
+.detailmov-container {
+    height: 400px;
+}
+
+.wrap-header {
+    display: flex;
+}
+
+.wrap-header > .wrap-title-detail {
+    width: 100%;
+    text-align: center;
+}
+
+.wrap-header > .wrap-title-detail > h1 {
+    color: white;
+}
+
+
+.wrap-back-movies {
+    padding: 10px;
+    
+}
+
+.wrap-back-movies > a {
+    color: #FED049;
+}
+
+
+.mov-information > div > img {
+    height: 300px;
+    width: 900px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.mov-information > h3 {
+    color: white;
+    margin: 20px;
+}
+
+.mov-det-item {
+    margin: 10px 20px;
+    color: white;
+}
+
+.wrap-mov-detail{
+    width: 100%;
+    align-content: center;
+    
+}
+
+
+.wrap-det-btn {
+    margin-left: 20px;
+}
+
+.wrap-det-btn > button {
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+

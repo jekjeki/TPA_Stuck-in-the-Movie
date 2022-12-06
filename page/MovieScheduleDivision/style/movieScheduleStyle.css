@@ -1,0 +1,7 @@
+.box-mov{
+    text-align: center;
+}
+
+.box-mov > p{
+    color: white;
+}

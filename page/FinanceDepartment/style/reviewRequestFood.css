@@ -1,0 +1,51 @@
+.header-review-request {
+    display: flex;
+    margin: 10px 0;
+}
+
+.header-review-request .wrap-review-food-title {
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.wrap-review-food-back a{
+    display: flex;
+    color: white;
+}
+
+
+.request-list {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.request-list > thead > tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.request-list > thead > tr > th, 
+.request-list > tbody > tr > td {
+    padding: 10px 15px;
+}
+
+.request-list > tbody > tr {
+    background-color: white;
+
+}
+
+.request-list tbody tr:nth-of-type(even){
+    background-color: #f3f3f3;;
+}
+
+
+td button {
+    margin: 0 3px;
+}
+

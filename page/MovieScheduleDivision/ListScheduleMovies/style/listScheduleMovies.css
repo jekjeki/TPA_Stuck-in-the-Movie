@@ -1,0 +1,31 @@
+.wrap-header-list-schedule{
+    display: flex;
+    color: white;
+    margin-top: 10px;
+}
+
+.wrap-list-schedule-title {
+    width: 100%;
+    text-align: center;
+    
+}
+
+.container-wrap-list-schedule-card{
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+.list-schedule-card{
+    width: 100%;
+}
+
+.list-schedule-card > div {
+    margin: 10px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+

@@ -1,0 +1,44 @@
+.schedule-detail-header {
+    display: flex;
+    margin-top: 10px;
+    color: white;
+}
+
+.wrap-schedule-detail-title {
+    width: 100%;
+    text-align: center;
+}
+
+.cont-schedule-detail {
+    margin-top: 10px;
+}
+
+.cont-schedule-detail > div > img {
+   margin: 10px 10px;
+  width: 400px;
+  height: 300px;
+}
+
+.cont-schedule-detail > div > p {
+    margin: 10px;
+    color: white;
+}
+
+.back-schedule-dashboard > p {
+    padding-left: 5px;
+}
+
+
+.wrap-btn-detail-schedule {
+    margin: 10px;
+}
+
+
+.wrap-btn-detail-schedule > button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #A4BE7B;
+    
+}

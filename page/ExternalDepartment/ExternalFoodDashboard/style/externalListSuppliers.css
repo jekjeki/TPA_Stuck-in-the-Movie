@@ -1,0 +1,47 @@
+
+.container-list-supliers-header {
+    display: flex;
+    margin: 10px 0;
+}
+
+.wrap-list-suppliers-title {
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.table-list-supplier {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    background-color: #DAE2B6;
+}
+
+.table-list-supplier > thead > tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.table-list-supplier > thead > tr > th, 
+.table-list-supplier > tbody > tr > td {
+    padding: 12px 15px;
+}
+
+
+.table-list-supplier > tbody > tr:nth-of-type(even){
+    background-color: #f3f3f3;
+}
+
+
+.page-list-suppliers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+

@@ -1,0 +1,90 @@
+.extern-food-dashboard-header {
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+    color: white;
+}
+
+.wrap-food-dashboard-title {
+    width: 100%;
+    text-align: center;
+}
+
+.container-food-dashboard {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.container-food-dashboard > table {
+    text-align: center;
+}
+
+/* .food-dashboard-card {
+    width: 100%;
+} */
+
+.food-dashboard-card-comp {
+    background-color: white;
+    margin: 10px;
+}
+
+.table-list-food-dashboard {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+
+}
+
+.table-list-food-dashboard {
+    background-color: white;
+}
+
+.table-list-food-dashboard > thead > tr {
+    background-color: #009879;
+    color: white;
+    text-align: center;
+}
+
+.table-list-food-dashboard > tr > th,
+.table-list-food-dashboard >tr > td {
+    padding: 12px 15px;
+} 
+
+
+.table-list-food-dashboard tbody tr:nth-of-type(even){
+    background-color: aqua;
+}
+
+
+.wrap-food-dashboard-add-request {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.wrap-food-dashboard-add-request > button {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0014FF;
+    color: white;
+}
+
+.wrap-food-dashboard-add-request > button > a{
+    text-decoration: none;
+    color: white;
+}
+
+.wrap-food-dashboard-add-request > button:hover {
+    cursor: pointer;
+    background-color: black;
+}
+
+
+
+
