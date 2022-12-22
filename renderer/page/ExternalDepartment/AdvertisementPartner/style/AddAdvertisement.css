@@ -1,0 +1,24 @@
+
+.add-adv-form{
+    max-width: 380px;
+    padding: 15px 35px 45px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,0.1); 
+}
+
+.form-add-adv-heading{
+    margin-bottom: 30px;
+}
+
+.add-adv-form > div {
+    margin: 10px;
+}
+
+.wrap-add-adv-btn > div > button{
+    margin-top: 10px;
+}
+
+.wrap-adv-duration > .txt-min {
+    margin-left: 5px;
+}
